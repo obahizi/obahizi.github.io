@@ -21,8 +21,8 @@
 title: Olivier Bahizi
 email: obahizi.umich.edu
 description: > Welcome to My Web, it is a work in progress
-baseurl:  ""  # Typically used for subpaths, leave it empty if deploying to the root
-url: "" https://github.com/obahizi/obahizi.github.io
+baseurl:  ""  
+url: "https://obahizi.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
