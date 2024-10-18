@@ -1,7 +1,11 @@
+---
 layout: page
-title: "About Us"
-permalink: /URL-PATH/
-About
+title: "About Me"
+permalink: /about-me/
+---
+
+# About Me
+
 I was born and raised in Rwanda, where I studied and worked till 2004. Then I migrated to Belgium before coming to the United States. My academic and professional pursuits have been characterized with a profound passion for art, literature, communication, media, and technologies.
 
 My educational journey led me to the University of Michigan, where I graduated in 2021. However, my path to this institution was made possible by the UROP program. It was through the Community College Summer Research Fellowship in 2018 that I had my first taste of research, and this invaluable opportunity paved the way for my transfer to the University of Michigan from a community college.
