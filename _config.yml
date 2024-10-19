@@ -20,8 +20,8 @@
 
 title: Olivier Bahizi
 email: obahizi.umich.edu
-description: > Welcome to My Web, it is a work in progress
-baseurl:  ""  
+description: Welcome to My Web, it is a work in progress
+baseurl:  ""
 url: "https://obahizi.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
